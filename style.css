@@ -1,0 +1,170 @@
+.homepage {
+    display: flex;
+    padding: 40px 373px 100px 373px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 84px;
+    background: #FFF;
+}
+.r4 {
+    width: 1226px;
+    height: 80px;
+    flex-shrink: 0;
+}
+.r6 {
+    width: 1226px;
+    height: 461px;
+    flex-shrink: 0;
+}
+.r5{
+    width: 603px;
+    height: 441px;
+    flex-shrink: 0;
+}
+.topmenu {
+    display: flex;
+    align-items: center;
+    gap: 460px;
+}
+.logo {
+    display: flex;
+    width: 137px;
+    height: 40px;
+    padding-right: 0.878px;
+    justify-content: center;
+    align-items: center;
+    gap: 14.792px;
+}
+.log {
+    width: 35px;
+    height: 40px;
+    flex-shrink: 0;
+}
+.txt {
+    width: 86.33px;
+    height: 17.472px;
+    flex-shrink: 0;
+    
+}
+.rightmenu {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+}
+.t {
+    color: #000;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.t1 {
+    color: #F25822;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.menutab {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.home {
+    display: flex;
+    width: 1174px;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.homemeta {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+}
+.title  {
+    color: #000;
+    font-family: Inter;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%; /* 72px */
+}
+.subtitle {
+    color: #888;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%; /* 28px */
+}
+.buttonmeta {
+    display: flex;
+    align-items: center;
+    gap: 48px;
+    align-self: stretch;
+}
+.btn {
+    display: flex;
+    width: 140px;
+    padding: 16px 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 56px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+}
+.t2 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.t3 {
+    color: #AAA;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.pngfind {
+    width: 545px;
+    height: 375px;
+    flex-shrink: 0;
+    
+   
+}
+.brand {
+    display: flex;
+    width: 1920px;
+    padding: 100px 0px;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+}
+.blogo {
+    width: 1226px;
+    height: 145px;
+    flex-shrink: 0;
+}
+.logotip {
+    width: 134px;
+    height: 50px;
+    flex-shrink: 0;
+}
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+html{height:100%}
+body{line-height:1}
+ol,ul{list-style:none}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}
+table{border-collapse:collapse;border-spacing:0}
