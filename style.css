@@ -1,3 +1,4 @@
+
 .homepage {
     display: flex;
     padding: 40px 373px 100px 373px;
@@ -419,6 +420,190 @@
     font-style: normal;
     font-weight: 600;
     line-height: normal;
+}
+
+.whatwedo {
+    display: flex;
+    width: 1px;
+    height: 1px;
+    padding: 1px 73px;
+    align-items: center;
+    gap: 20px;
+}
+.whatwedoimg {
+    width: 884px;
+    height: 800px;
+    flex-shrink: 0;
+}
+.whatwedorightblock {
+    display: flex;
+    width: 643px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+    flex-shrink: 0;
+}
+.whatwedotitle {
+    color: #000;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%; /* 57.6px */
+    align-self: stretch;
+}
+.whatwedosubtitle {
+    color: #888;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%; /* 22.4px */
+    align-self: stretch;
+}
+.whatwedoblock {
+    display: flex;
+    padding: 24px;
+    align-items: center;
+    gap: 24px;
+    align-self: stretch;
+}
+.whatwedoicon {
+    width: 100px;
+    height: 100px;
+}
+.whatwedoblocktitle {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 18px;
+    flex: 1 0 0;
+}
+.whatwedoblocktitletext {
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.whatwedoblocktitletext2 {
+    color: #666;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 24px */
+    align-self: stretch;
+}
+.mailbox {
+    display: flex;
+    width: 1720px;
+    padding: 100px 273px;
+    justify-content: center;
+    align-items: center;
+    gap: 61px;
+}
+.mailox2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex: 1 0 0;
+    padding: 474px 500px;
+}
+.leftblock {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    flex: 1 0 0;
+}
+.mailtitle{
+    align-self: stretch;
+    color: #000;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%; /* 57.6px */
+}
+.mailsubtitle{
+    align-self: stretch;
+    color: #888;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%; /* 22.4px */
+}
+.massegeblock {
+    display: flex;
+    width: 511px;
+    align-items: center;
+    gap: 8px;
+}
+.inputmail {
+    display: flex;
+    width: 180px;
+    height: 51px;
+    padding: 16px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 56px 0px 0px 56px;
+    background: #EEE;
+}
+.inputmailtext {
+    color: #666;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.inputmail2 {
+    display: flex;
+    width: 180px;
+    height: 51px;
+    padding: 16px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 0px 56px 56px 0px;
+    background: #EEE;
+}
+.inputmailtext {
+    color: #666;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.mailbtn {
+    display: flex;
+    width: 140px;
+    padding: 16px 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 56px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+}
+.mailbtntext {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.mailimg {
+    width: 643px;
+    height: 507px;
+    flex-shrink: 0;
 }
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
